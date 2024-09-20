@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Basmala Ramadan</h1>
-<h3 align="center">A passionate .NET Developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Mohamed Adel</h1>
+<h3 align="center">A .NET Developer from Egypt</h3>
 
-- 👯 4th year at Helwan University, specializing in basic programming with a strong background in *.NET development.*
+- 👯 Graduate at Ain Shams University, specializing in basic programming with a strong background in *.NET development.*
 
 - 🌱 I’m currently learning *FrontEnd (Angular)*
 
-- 🤝 I’m Currently Open for: *An Intern OR New Job Opportunity*
+- 🤝 I’m Currently work in: *Apex Company*
 
-- 📫 How to reach me *basmalar950@gmail.com*
+- 📫 How to reach me *msdd13579@gmail.com*
 
 - ⚡Always *Learning New Things*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/basmala-ramadan-a11253309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/basmala-ramadan-a11253309" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/basmala.ramadan.399?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/basmala.ramadan.399?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-adel-9b3b9b296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-adel-9b3b9b296/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/MohaameedAdell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/MohaameedAdell" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
